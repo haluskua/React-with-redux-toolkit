@@ -1,8 +1,9 @@
 import { configureStore } from "@reduxjs/toolkit";
-import { StringDecoder } from "string_decoder";
-
+import reservationReducer from "../features/reservationSlice";
 export const store = configureStore({
-  reducer: {},
+  reducer: {
+    reservations: reservationReducer,
+  },
 });
 
 export type RootState = ReturnType<typeof store.getState>;
