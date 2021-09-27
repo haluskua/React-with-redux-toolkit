@@ -1,5 +1,17 @@
 # Getting Started with Create React App
 
+# YOUTUBE TUTORIAL BY Laith Harb
+
+https://www.youtube.com/watch?v=jR4fagDcvrc&t=576s
+
+To run it download or clone this repo into your local and run:
+
+# npm install
+
+# npm start from your local command line
+
+# !!!! this will run the server localhost://
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
