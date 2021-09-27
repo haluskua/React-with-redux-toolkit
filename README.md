@@ -10,7 +10,7 @@ To run it download or clone this repo into your local and run:
 
 # npm start from your local command line
 
-# !!!! this will run the server localhost://
+# !!!! this will run the server localhost:3000
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
